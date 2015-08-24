@@ -96,6 +96,14 @@ a:focus {
     color: #888B8D;
 }
 
+.mbap {
+    margin-bottom: 0;
+}
+.findout {
+    color: white;
+    padding-top: 0;
+}
+
 .navbar-custom .nav li a {
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
@@ -136,7 +144,7 @@ a:focus {
         padding: 20px 0;
         border-bottom: 0;
         letter-spacing: 1px;
-        background: rgba(255,255,255,.7);
+        background: rgba(255,255,255,.98);
         -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
         -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
         transition: background .5s ease-in-out,padding .5s ease-in-out;
@@ -146,7 +154,7 @@ a:focus {
         padding: 0;
         padding-bottom: 1rem;
         border-bottom: 1px solid rgba(255,255,255,.3);
-        background-color: rgba(255,255,255,.7);
+        background-color: rgba(255,255,255,.98);
     }
 }
 
