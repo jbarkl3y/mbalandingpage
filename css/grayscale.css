@@ -100,6 +100,7 @@ a:focus {
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;
+    padding-top: 3rem;
 }
 
 .navbar-custom .nav li a:hover {
